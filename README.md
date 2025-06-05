@@ -15,18 +15,9 @@ It uses **Logistic Regression** from `scikit-learn`.
 1. Make sure you have Python installed
 2. Install dependencies:
 
-```bash
 pip install pandas scikit-learn
 
 python predictor.py
-
-
----
-
-### ➤ 4️⃣ Example Output
-
-```markdown
-## 📌 Example Output
 
 ## 📊 Dataset
 
