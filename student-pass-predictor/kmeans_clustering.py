@@ -17,8 +17,6 @@ data = np.array([
 kmeans = KMeans(n_clusters=2, random_state=42)
 kmeans.fit(data)
 
-print(kmeans.labels_)
-
 colors = ["red", "blue"]
 
 for i in range(len(data)):
